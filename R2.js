@@ -66,3 +66,4 @@ function fib(num){
 }
 console.log(fib(4))//3
 
+
